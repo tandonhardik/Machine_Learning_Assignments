@@ -1,1 +1,1 @@
-Please Open the "" File to see the Lab Assignments 1-8.
+Please Open the "102303252_Hardik_Tandon_ML_Lab.ipynb" File to see the Lab Assignments 1-8.
